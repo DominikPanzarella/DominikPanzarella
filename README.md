@@ -1,8 +1,3 @@
-### Hi there friends👋
-
-<!--
-**DominikPanzarella/DominikPanzarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently studying Computer Science Engineering at SUPSI, Lugano (CH)<br>👯 I’m looking to collaborate on innovative projects<br>📄 Know about my experiences https://drive.google.com/file/d/1qS7gQ3tp-Zjz8JkfDIBd1d4BquNQ9wxQ/view?usp=sharing<br>📫 How to reach me: dominik.panzarella@gmail.com
 
@@ -23,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DominikPanzarella&icon=0&color=4)](https://visitcount.itsvg.in)
 
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
