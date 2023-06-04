@@ -20,4 +20,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DominikPanzarella&icon=0&color=4)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=DominikPanzarella&label=Profile%20Views&color=5&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
 
