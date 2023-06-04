@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying Computer Science Engineering at SUPSI, Lugano (CH)<br>👯 I’m looking to collaborate on innovative projects<br>📄 Know about my experiences https://drive.google.com/file/d/1qS7gQ3tp-Zjz8JkfDIBd1d4BquNQ9wxQ/view?usp=sharing<br>📫 How to reach me: dominik.panzarella@gmail.com
+🔭 I’m currently studying Computer Science Engineering at SUPSI, Lugano (CH)<br>👯 I’m looking to collaborate on innovative projects<br>📄 Know about my experiences, look at my [![resume]]https://drive.google.com/file/d/1qS7gQ3tp-Zjz8JkfDIBd1d4BquNQ9wxQ/view?usp=sharing<br>📫 How to reach me: dominik.panzarella@gmail.com
 
 
 ## 🌐 Socials:
