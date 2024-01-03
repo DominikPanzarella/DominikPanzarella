@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 # 💫 About Me:
-🔭 I’m currently studying Computer Science Engineering at SUPSI, Lugano (CH)<br>👯 I’m looking to collaborate on innovative projects<br>📄 Know about my experiences, look at my [resume](https://drive.google.com/file/d/1qS7gQ3tp-Zjz8JkfDIBd1d4BquNQ9wxQ/view?usp=sharing)<br>📫 How to reach me: dominik.panzarella@gmail.com
+🔭 I’m currently studying Computer Science Engineering at SUPSI, Lugano (CH)<br>👯 I’m looking to collaborate on innovative projects<br>📄 Know about my experiences, look at my [resume](https://drive.google.com/file/d/1qS7gQ3tp-Zjz8JkfDIBd1d4BquNQ9wxQ/view?usp=sharing)<br>📫 How to reach me: dominik.panzarella@gmail.com<br> Website: [portfolio](https://dominikpanzarella.ch/)
 
 
 ## 🌐 Socials:
