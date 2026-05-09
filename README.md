@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 # 💫 About Me:
-🔭 I’m currently studying Computer Science at USI Lugano (CH)<br>👯 I’m looking to collaborate on innovative projects<br>📄 Know about my experiences, look at my [resume](https://drive.google.com/file/d/1sTMqjiOWUahfDWB3Gtu6-UHhm5CXZR4Z/view?usp=sharing)<br>📫 How to reach me: dominik.panzarella@gmail.com<br> Website: [portfolio](https://dominikpanzarella.ch/)
+🔭 I’m currently studying Computer Science at USI Lugano (CH)<br>👯 I’m looking to collaborate on innovative projects<br>📄 Know about my experiences, look at my [resume](https://drive.google.com/file/d/1eF4zom25ijZvqO3FGpAUFINlVWDTpiBd/view?usp=sharing)<br>📫 How to reach me: dominik.panzarella@gmail.com<br> Website: [portfolio](https://dominikpanzarella.ch/)
 
 
 ## 🌐 Socials:
